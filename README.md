@@ -1,9 +1,9 @@
 # Database
 
-| first name | last name | favourite colour | dream profession     |
-| ---------- | --------- | ---------------- | -------------------- |
-| John       | Jameson   | mauve            | firetruck driver     |
-| James      | Johnson   | salmon           | ambulance driver     |
-| Jane       | Doe       | blue             | software engineer    |
-| Jack       | Jackson   | black            | astronaut            |
-| J          | Jenkins   | orange           | ricotta cheese maker |
+| first and last name    | dream profession     | favourite colour | 
+| ---------------------- | -------------------- | ---------------- | 
+| John Jameson           | firetruck driver     | mauve            | 
+| James Johnson          | ambulance driver     | salmon           |
+| Jane Doe               | SE                   | blue             | 
+| Jack Jackson           | astronaut            | black            | 
+| J Jenkins              | ricotta cheese maker | orange           | 
